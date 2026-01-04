@@ -36,10 +36,10 @@ This project demonstrates a modular AI pipeline designed to automate medical doc
 
 Run the following commands to install the necessary dependencies:
 
-\`\`\`bash
+```bash
 pip install spacy transformers torch pandas
 python -m spacy download en_core_web_sm
-\`\`\`
+```
 
 ### Running the Project
 
